@@ -1,0 +1,46 @@
+{"quizlist":[
+  
+	{
+	"question":"Portuguese is spoken in _______",
+	"option":["Brazil","Argentina","Ecuador"]
+	},
+	{
+	"question":"What is the capital of Peru?",
+	"option":["Lima","Bogota","San Juan","Caracas"]
+	},
+	{
+	"question":"Which country is long and thin?",
+	"option":["Chile","Uruguay"]
+	},
+	{
+	"question":"Which of the following do not belong to solar system ?",
+	"option":["Nebulae","Planets","Comets", "Asteroids" ]
+	},
+	{
+	"question":"What is the capital of Mexico?",
+	"option":["Mexico City","Cancun","New Mexico","Baja"]
+	},
+	{
+	"question":"We always see the same face of the Moon, because ?",
+	"option":["It takes equal time for revolution around the earth and rotation on its own axis","It revolves on its axis in the direction opposite to that of the earth", "It is smaller than earth","It rotates at the same speed as the earth around the sun"]
+	},
+    {
+	"question":"The great Victoria Desert is located in:",
+	"option":["Australia","North America","Canada","West Africa"]
+	},
+	{
+	"question":"What is the capital of Cameroon?",
+	"option":["Yaoundé","Dayton","Moracco","Banjul"]
+	},
+	{
+	"question":"When a body is taken from the earth to the moon :",
+	"option":["Its weight decreases","It becomes completely weightless","Its weight remains unchanged","Its weight increases"]
+	},
+	{
+	"question":"Which among the following planets is smaller in size than the Earth?",
+	"option":["Venus","Saturn","Uranus","Neptune"]
+	}
+
+
+]
+}
