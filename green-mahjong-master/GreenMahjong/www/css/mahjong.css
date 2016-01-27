@@ -1,21 +1,4 @@
-/*  
-Copyright 2014, Daniel Beck and Karin Beck
 
-This file is part of Green Mahjong.
-
-Green Mahjong is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-Green Mahjong is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with Green Mahjong.  If not, see <http://www.gnu.org/licenses/>.
-*/
 
 /*
 Groß: 
@@ -507,7 +490,7 @@ div.layoutSelection{
   overflow-y:auto;
 }*/
 div#layouts div.turtle{
-  width: 300px;
+ width: 280px;
   height: 220px;
   background-image: url('../images/layouts_thumbs.png');
   background-position: 0px 0px;
@@ -515,7 +498,7 @@ div#layouts div.turtle{
 
 
 div#layouts div.flower{
-  width: 300px;
+  width: 280px;
   height: 220px;
   background-image: url('../images/layouts_thumbs.png');
   background-position: -300px 0px;
@@ -523,7 +506,7 @@ div#layouts div.flower{
 
 
 div#layouts div.spider{
-  width: 300px;
+  width: 280px;
   height: 220px;
   background-image: url('../images/layouts_thumbs.png');
   background-position: -600px 0px;
@@ -531,20 +514,20 @@ div#layouts div.spider{
 
 
 div#layouts div.cloud{
-  width: 300px;
+ width: 280px;
   height: 220px;
   background-image: url('../images/layouts_thumbs.png');
   background-position: -900px 0px;
 }
 div#layouts div.bug{
-  width: 300px;
+  width: 280px;
   height: 220px;
   background-image: url('../images/layouts_thumbs.png');
   background-position: -1200px 0px;
 }
 
 div#layouts div.fourHills{
-  width: 300px;
+ width: 280px;  
   height: 220px;
   background-image: url('../images/layouts_thumbs.png');
   background-position: -1500px 0px;
@@ -578,7 +561,7 @@ div.newline{
   margin-left: auto;
   margin-right: auto;
   display: block;
-  width:200px;
+  width:auto;
 }
 
 .card {

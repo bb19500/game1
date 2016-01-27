@@ -9,7 +9,7 @@
     <preference name="permissions" value="none"/>
     
     <description>Green Mahjong is a nice opensource mahjong game.</description> 
-    <author  href="http://daniel-beck.org">Daniel Beck</author>
+    <author  href="#"></author>
     <access origin="*" />
     <content src="index.html" />
     <icon src="greenmahjong256.png"/>

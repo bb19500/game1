@@ -12,8 +12,8 @@
     },
     "fullscreen": "true",
     "developer":{
-        "name": "Daniel Beck",
-        "url": "http://daniel-beck.org"
+        "name": "",
+        "url": ""
     },
     "default_locale": "en",
     "locales": {
